@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0018-4sum) |
+| [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0761-special-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0761-special-binary-string) |
 ## String
 |  |
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
