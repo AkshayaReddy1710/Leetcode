@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0761-special-binary-string) |
 ## Divide and Conquer
 |  |
@@ -43,4 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
