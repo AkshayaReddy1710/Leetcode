@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0057-insert-interval) |
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
