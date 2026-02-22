@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0051-n-queens) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
