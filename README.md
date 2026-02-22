@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
+| [0930-binary-subarrays-with-sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
@@ -109,9 +111,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
