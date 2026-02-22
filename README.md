@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0761-special-binary-string) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
