@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
