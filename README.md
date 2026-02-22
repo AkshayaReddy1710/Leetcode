@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0057-insert-interval) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
