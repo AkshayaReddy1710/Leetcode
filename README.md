@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Rolling Hash
 |  |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
