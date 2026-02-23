@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
