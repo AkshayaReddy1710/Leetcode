@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
