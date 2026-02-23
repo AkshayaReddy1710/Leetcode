@@ -124,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Sliding Window
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
