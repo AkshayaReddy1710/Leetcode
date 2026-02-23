@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
