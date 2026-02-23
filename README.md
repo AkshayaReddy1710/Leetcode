@@ -132,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
