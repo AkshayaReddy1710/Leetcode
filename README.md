@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
