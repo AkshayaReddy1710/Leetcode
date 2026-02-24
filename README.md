@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0217-contains-duplicate) |
