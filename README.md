@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
