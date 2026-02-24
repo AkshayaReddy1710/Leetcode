@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0868-binary-gap) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
