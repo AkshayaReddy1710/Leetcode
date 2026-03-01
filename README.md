@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0146-lru-cache) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
