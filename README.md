@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0860-lemonade-change) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Tree
 |  |
 | ------- |
