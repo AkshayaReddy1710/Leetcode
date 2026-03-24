@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0037-sudoku-solver) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Tree
 |  |
