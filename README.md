@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2906-construct-product-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
