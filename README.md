@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Binary Search
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Tree
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2906-construct-product-matrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
