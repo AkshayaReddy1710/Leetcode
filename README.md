@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Tree
 |  |
 | ------- |
