@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
 |  |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
