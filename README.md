@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1622-fancy-sequence](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
