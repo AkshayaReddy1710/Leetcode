@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3110-score-of-a-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3110-score-of-a-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
