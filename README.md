@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0283-move-zeroes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0761-special-binary-string) |
 ## Greedy
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AkshayaReddy1710/Leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkshayaReddy1710/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Design
 |  |
